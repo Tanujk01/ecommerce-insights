@@ -80,7 +80,3 @@ This schema closely resembles real e-commerce production databases.
 - Git & GitHub
 
 ---
-
-
-
-## 📂 Project Structure
